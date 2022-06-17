@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @AnthonyByansi
 - 👀 I’m interested in python framworks
-- 🌱 I’m currently learning UX design
+- 🌱 A UX designer
+-  🌱 web developer and web3 enthusiastic 
 - 💞️ I’m looking to collaborate on python, software and web development
 - 📫 How to reach me https://www.linkedin.com/in/byansi-anthony-7a027222a 
 
