@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnthonyByansi
+-  Hi, 👋 I’m Anthony
 - 👀 I’m interested in python framworks
 - 🌱 A passionate UX designer
 -  🌱 web developer and web3 enthusiastic 
