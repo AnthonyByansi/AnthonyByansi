@@ -3,8 +3,8 @@
 - 🌱 A passionate UX designer
 -  🌱 web developer and web3 enthusiastic 
 - 💞️ I’m looking to collaborate on python, software and web development
-- 📫 How to reach me on [linkedIn](https://www.linkedin.com/in/byansi-anthony-7a027222a) 
-- 📫 Reach out to me on twitter ✅[byansi_anthony](https://twitter.com/byansi_anthony)
+- 📫 How to reach me on [linkedIn](https://www.linkedin.com/in/byansi-anthony-7a027222a) ✅
+- 📫 Reach out to me on twitter [Twitter](https://twitter.com/byansi_anthony) ✅
 
 <!---
 AnthonyByansi/AnthonyByansi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
