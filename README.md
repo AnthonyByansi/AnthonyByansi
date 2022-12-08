@@ -7,10 +7,10 @@
 - 📫 Reach out to me on [Twitter](https://twitter.com/byansi_anthony) ✅
  -->
 
-<h1 align="center"><a href="https://codeperfectplus.github.io/">About Me</a></h1>
+<h1 align="center"><a href="">About Me</a></h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=codeperfectplus" alt="codeperfectplus"/>
+<img src="https://komarev.com/ghpvc/?username=AnthonyByansi" alt="Byansi Anthony"/>
 </p>
 <!--Social Channel-->
 <p align="center">
