@@ -15,10 +15,10 @@
 <!--Social Channel-->
 <p align="center">
     <a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a>
-    <a href="https://www.linkedin.com/in/deepak-raj-35887386/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
-    <a href="http://dev.to/codeperfectplus"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
+    <a href="https://www.linkedin.com/in/byansi-anthony-7a027222a"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="Linkedin"></a>
+    <a href="https://www.linkedin.com/in/byansi-anthony-7a027222a"><img src="https://img.shields.io/badge/DEV.TO-%231572B6.svg?&amp;style=for-the-badge&amp;logo=dev%20to&amp;logoColor=white" alt="Dev to"></a>
     <a href="https://www.hackerrank.com/codeperfectplus"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&amp;logo=HackerRank&amp;logoColor=white" alt="HackerRank"></a>
-    <a href="https://discord.gg/JfbK3bS"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
+    <a href="Anthony-shafer"><img src="https://img.shields.io/discord/758030555005714512.svg?label=&amp;logo=discord&amp;logoColor=ffffff&amp;color=7389D8&amp;labelColor=6A7EC2&amp;style=for-the-badge" alt="Discord Server"></a>
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
 </p>
 
@@ -28,9 +28,9 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
-        self.founder = "Py-Contributors"
-        self.current_job_title = "Associate Data Scientist"
-        self.current_company = "Scry Analytics"  
+        self.founder = "UltraLyte"
+        self.current_job_title = "Data Scientist"
+        self.current_company = "Addax "  
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
@@ -38,7 +38,7 @@ class Life(Creativity):
         self.excited_for = "Internt of Things 🌎"
     
     def contact_me(self):
-        self.email = "deepak008@live.com"
+        self.email = "byansianthony@gmail.com"
         
     def star_it(self):
         if repo.useful:
