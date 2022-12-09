@@ -133,7 +133,7 @@ if '__repo__' == '__helpful__':
 
 
 ## Hackathon Projects
-
+<!-- 
 | Project | Description  |
 | --- | --- |
 | [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
@@ -142,7 +142,7 @@ if '__repo__' == '__helpful__':
 
 <p align="center">Show ❤️ by starring some of the repositories!</p>
 <p align="center">Thank you for visiting my profile! 😊</p>
-
+ -->
 hhs
 
 
