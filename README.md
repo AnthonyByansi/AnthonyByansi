@@ -59,7 +59,7 @@ if '__repo__' == '__helpful__':
 2. Mention in every release/PyPI and mention in documentation.
 3. Mention on website(currently under construction) with logo/link
 <!-- 
- -->
+
 
 
 <!-- ## Open-Source Projects Maintained  -->
