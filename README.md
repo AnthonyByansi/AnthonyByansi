@@ -97,7 +97,9 @@ if '__repo__' == '__helpful__':
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyByansi)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyByansi&count_private=true&show_icons=true&bg_color=00000000)
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyByansi&repo=github-readme-stats)](https://github.com/AnthonyByansi/github-readme-stats) -->
+
+api/pin?username=anuraghazra&repo=github-readme-stats
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AnthonyByansi&repo=github-readme-stats)](https://github.com/AnthonyByansi/github-readme-stats)
 
 
 
