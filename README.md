@@ -64,7 +64,7 @@ if '__repo__' == '__helpful__':
 
 <!-- ## Open-Source Projects Maintained  -->
 
-| Project | Description  | Package |
+<!-- | Project | Description  | Package |
 | :---: | :---: | :--- |
 | [Sanatio](https://github.com/py-contributors/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
 | [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|
@@ -77,7 +77,7 @@ if '__repo__' == '__helpful__':
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
  -->
-
+ -->
 <!-- ## Up Coming Projects
 | Project | Description  |
 | --- | --- |
