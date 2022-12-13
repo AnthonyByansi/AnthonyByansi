@@ -88,6 +88,8 @@ if '__repo__' == '__helpful__':
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif"> 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyByansi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ##  🛠️  **Languages & Tools:**
 
