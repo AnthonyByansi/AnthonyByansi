@@ -87,7 +87,9 @@ if '__repo__' == '__helpful__':
 
 <!-- Programmer gif -->
 <img align="right" src="./assets/img/programmer.gif" alt="gif"> 
-## 🛠️ **Languages & Tools:**
+
+
+##  🛠️  **Languages & Tools:**
 
 <p>
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&amp;style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python">
