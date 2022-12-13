@@ -132,7 +132,7 @@ if '__repo__' == '__helpful__':
 
 
 
-## Hackathon Projects
+<!-- ## Hackathon Projects -->
 <!-- 
 | Project | Description  |
 | --- | --- |
