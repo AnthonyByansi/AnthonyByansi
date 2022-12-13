@@ -86,8 +86,7 @@ if '__repo__' == '__helpful__':
 | [Metrics](#) | ML\DL Metrics implementation in Python |
 
 <!-- Programmer gif -->
-<img align="right" src="./assets/img/programmer.gif" alt="gif"> -->
- -->
+<img align="right" src="./assets/img/programmer.gif" alt="gif"> 
 ## 🛠️ **Languages & Tools:**
 
 <p>
