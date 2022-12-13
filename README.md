@@ -53,16 +53,16 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-## Sponsors 📢
+<!-- ## Sponsors 📢
 
 1. <your product/logo/link here>
 2. Mention in every release/PyPI and mention in documentation.
 3. Mention on website(currently under construction) with logo/link
+<!-- 
+ -->
 
 
-
-
-## Open-Source Projects Maintained 
+<!-- ## Open-Source Projects Maintained  -->
 
 | Project | Description  | Package |
 | :---: | :---: | :--- |
@@ -76,9 +76,9 @@ if '__repo__' == '__helpful__':
 | [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
 | [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
 | [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
+ -->
 
-
-## Up Coming Projects
+<!-- ## Up Coming Projects
 | Project | Description  |
 | --- | --- |
 | [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
@@ -87,7 +87,7 @@ if '__repo__' == '__helpful__':
 | [Metrics](#) | ML\DL Metrics implementation in Python |
 
 <!-- Programmer gif -->
-<img align="right" src="./assets/img/programmer.gif" alt="gif">
+<img align="right" src="./assets/img/programmer.gif" alt="gif"> -->
 
 ## 🛠️ **Languages & Tools:**
 
