@@ -10,7 +10,7 @@
 <h1 align="center"><a href="">About Me</a></h1>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=AnthonyByansi" alt="Byansi Anthony"/>
+<img src="https://komarev.com/ghpvc/?username=Anthonycs" alt="Byansi Anthony"/>
 </p>
 <!--Social Channel-->
 <p align="center">
