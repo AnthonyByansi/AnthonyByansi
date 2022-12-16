@@ -22,6 +22,21 @@
     <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&amp;style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Youtube">
 </p>
 
+
+
+""" 
+later use
+<details>
+<summary>Click for vanity statistics</summary>
+<br />
+
+![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblador)
+![Joel's trophies](https://github-profile-trophy.vercel.app/?username=oblador&column=5&margin-w=7&margin-h=7)
+</details>
+
+
+"""
+
 ```python
 from life import Creativity
 
