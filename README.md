@@ -66,47 +66,6 @@ if '__repo__' == '__helpful__':
     fork_it()
 ```
 
-<!-- ## Sponsors 📢
-
-1. <your product/logo/link here>
-2. Mention in every release/PyPI and mention in documentation.
-3. Mention on website(currently under construction) with logo/link
-<!-- 
-
-
-
-<!-- ## Open-Source Projects Maintained  -->
-
-<!-- | Project | Description  | Package |
-| :---: | :---: | :--- |
-| [Sanatio](https://github.com/py-contributors/sanatio)| Document, String, Number, Date, Email, Username, Password Validator for Python | ✅ <img src="https://img.shields.io/pypi/v/sanatio.svg">|
-| [Discord Feed Bot](https://github.com/Py-Contributors/RssFeed) | Discord bot for automating RSS feed updates | ✅ <img src="https://img.shields.io/pypi/v/discord-feed-bot.svg">|
-| [AudioBook](https://github.com/Py-Contributors/audiobook) | Listen to your favorite books with this audiobook app  | ✅ <img src="https://img.shields.io/pypi/v/audiobook.svg"> |
-| [Dataset-convertor](https://github.com/Py-Contributors/dataset-convertor) | Convert your dataset into different formats  | ✅ <img src="https://img.shields.io/pypi/v/dataset-convertor.svg">|
-| [Random-Profile-Generator](https://github.com/Py-Contributors/RandomProfileGenerator) | Generate random profiles for your projects  |✅ <img src="https://img.shields.io/pypi/v/random-profile.svg"> |
-| [Site-cloner](https://github.com/Py-Contributors/site-cloner) | Clone any website with this tool  | ✅ <img src="https://img.shields.io/pypi/v/site-cloner.svg">|
-| [movens](https://github.com/Py-Contributors/movens) | CLI/GUI tool to manage files smartly  | ✅ <img src="https://img.shields.io/pypi/v/movens.svg">|
-| [QuickDB](https://github.com/Py-Contributors/QuickDB)| Light weight database for python, with a simple API and a simple file format| ✅<img src="https://img.shields.io/pypi/v/quickdatabase.svg">|
-| [Cybel](https://github.com/Py-Contributors/cybel) | Discord bot for the cybel community | [Top.gg](https://top.gg/bot/832137823309004800/) |
-| [Stock-Dashboard](https://github.com/Py-Contributors/Stock-Dashboard) | Dashboard/Alert to track stock prices  | :x: |
-<!-- 
-<!-- ## Up Coming Projects
-| Project | Description  |
-| --- | --- |
-| [Release](https://github.com/codePerfectPlus/release)| Github CI action for PyPI packge release automation |
-| [Faciem](#) | Face Authenticatio implementation in Tensorflow |
-| [Voicem](#) | Voice Authentication implementation in Tensorflow |
-| [Metrics](#) | ML\DL Metrics implementation in Python |
-
-<!-- Programmer gif -->
-<img align="right" src="./assets/img/programmer.gif" alt="gif"> 
-
-
-
-
-
-
-
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyByansi)](https://github.com/anuraghazra/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyByansi&count_private=true&show_icons=true&bg_color=00000000)
