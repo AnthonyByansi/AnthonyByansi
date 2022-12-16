@@ -24,7 +24,7 @@
 
 
 
-""" 
+<!-- 
 later use
 <details>
 <summary>Click for vanity statistics</summary>
@@ -32,10 +32,8 @@ later use
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblador)
 ![Joel's trophies](https://github-profile-trophy.vercel.app/?username=oblador&column=5&margin-w=7&margin-h=7)
-</details>
+</details> -->
 
-
-"""
 
 ```python
 from life import Creativity
