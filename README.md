@@ -123,18 +123,6 @@ api/pin?username=anuraghazra&repo=github-readme-stats
 
 
 
-<!-- ## Hackathon Projects -->
-<!-- 
-| Project | Description  |
-| --- | --- |
-| [IACAH](https://github.com/codePerfectPlus/IACAH) | India Academia Connect AI Hackathon |
-| Hacktoberfest | Open Source Contribution 2020-21-22 |
-| HackSquad | Top 60 teams were selected as winners for open source contribution 2022 |
-
-<p align="center">Show ❤️ by starring some of the repositories!</p>
-<p align="center">Thank you for visiting my profile! 😊</p>
- -->
-<!-- hhs -->
 
 
 <!---
