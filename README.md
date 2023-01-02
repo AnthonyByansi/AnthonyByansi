@@ -41,9 +41,9 @@ from life import Creativity
 
 class Life(Creativity):
     def __init__(self):
-        self.founder = "UltraLyte"
+        self.Co-founder = "LyteLink"
         self.current_job_title = "Data Scientist"
-        self.current_company = "Addax "  
+        self.current_company = "LyteLink"  
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
