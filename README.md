@@ -9,9 +9,9 @@
 
 <h1 align="center"><a href="">About Me</a></h1>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://komarev.com/ghpvc/?username=AnthonyByansi" alt="Byansi Anthony"/>
-</p>
+</p> -->
 <!--Social Channel-->
 <p align="center">
 <!--     <a href="http://codeperfectplus.herokuapp.com/"><img src="https://img.shields.io/badge/ML%20Blog-%2320232a.svg?&amp;style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Blog"></a> -->
