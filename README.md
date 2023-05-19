@@ -42,7 +42,7 @@ from life import Creativity
 class Life(Creativity):
     def __init__(self):
         self.Co-founder = "LyteLink"
-        self.current_job_title = "Data Scientist"
+        self.current_job_title = "Data Engineer"
         self.current_company = "LyteLink"  
 
     def current_projects(self):
