@@ -47,7 +47,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Computer vision & Deep Learning 📚"
-        self.currently_working_on = "Data Intergrations 🌱"
+        self.currently_working_on = "Data Integrations 🌱"
         self.excited_for = "Internt of Things 🌎".
     
     def contact_me(self):
