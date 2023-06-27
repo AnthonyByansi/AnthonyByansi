@@ -1,5 +1,5 @@
 <!-- -  Hi, 👋 I’m **Anthony**
-- 👀 I’m interested in python framworks
+- 👀 I'm exploring data ingestion and processing pipelines using Python frameworks in the field of Data Engineering
 - 🌱 A passionate **UX designer**
 -  🌱 web developer and web3 and open source enthusiastic
 - 💞️ I have a toxic relationship with vscode -->
@@ -120,6 +120,8 @@ api/pin?username=anuraghazra&repo=github-readme-stats
     <img src="https://img.shields.io/badge/-linux-772953?style=for-the-badge&amp;logo=linux" alt="Linux">
     <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows">
 </p>
+
+<a href="https://app.daily.dev/byansianthony"><img src="https://api.daily.dev/devcards/4c82a2a90fa24c08b4a43e209eb4eac2.png?r=ns9" width="400" alt="Byansi Anthony's Dev Card"/></a>
 
 
 
