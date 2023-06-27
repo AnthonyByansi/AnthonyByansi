@@ -121,8 +121,6 @@ api/pin?username=anuraghazra&repo=github-readme-stats
     <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&amp;logoColor=white&amp;style=for-the-badge" alt="windows">
 </p>
 
-<a href="https://app.daily.dev/byansianthony"><img src="https://api.daily.dev/devcards/4c82a2a90fa24c08b4a43e209eb4eac2.png?r=ns9" width="400" alt="Byansi Anthony's Dev Card"/></a>
-
 
 
 
