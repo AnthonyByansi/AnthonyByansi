@@ -12,7 +12,7 @@ class Life(Creativity):
 
     def current_projects(self):
         self.currently_learning = "Microservices 📚"
-        self.currently_working_on = "DevOps & SecOps 🌱"
+        self.currently_working_on = "DevSecOps 🌱"
         self.excited_for = "Site Reliability Engineering".
     
     def contact_me(self):
