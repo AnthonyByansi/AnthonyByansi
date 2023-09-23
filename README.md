@@ -11,7 +11,7 @@ class Life(Creativity):
         self.current_company = "Data Science Chronicles"  
 
     def current_projects(self):
-        self.currently_learning = "Microservices 📚"
+        self.currently_learning = "Microservices & Chaos Engineering📚"
         self.currently_working_on = "DevSecOps 🌱"
         self.excited_for = "Site Reliability Engineering".
     
